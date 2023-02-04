@@ -2,7 +2,7 @@
 
 Install cd termux-theme ; bash theme-termux.sh
 
-quítale zoo a la pantalla 
+quítale zoom a la pantalla 
 
 y dale (-y enter)
 
